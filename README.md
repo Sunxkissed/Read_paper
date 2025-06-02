@@ -5,6 +5,7 @@
 ### Implicit CoT
 
 | Date | Title | Link | Mark |
+| ---- | ----- | ---- | ---- |
 | 0523 | Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | - | Survey 1 |
 | 0524 | A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | - | Survey 2 |
 | 0524 | Efficient Reasoning Models: A Survey | - | Survey 3 |
