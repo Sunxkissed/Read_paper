@@ -6,9 +6,9 @@
 
 | Date | Title | Link | Mark |
 | ---- | ----- | ---- | ---- |
-| 202505 | Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | - | Survey 1 |
+| 202505 | Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | [Blog](https://zhuanlan.zhihu.com/p/1888902868641244612) | Survey 1 |
 | 202505 | A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | [Blog](https://blog.csdn.net/yul1024/article/details/147125726) | Survey 2 |
-| 202505 | Efficient Reasoning Models: A Survey | - | Survey 3 |
+| 202505 | Efficient Reasoning Models: A Survey | [Blog](https://zhuanlan.zhihu.com/p/1895887731894228718) | Survey 3 |
 | 202505 | Efficient Inference for Large Reasoning Models: A Survey | - | Survey 4 |
 | 202505 | Training Large Language Models to Reason in a Continuous Latent Space | - | Coconut (Curriculum learning) |
 | 202505 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | - | CODI (Curriculum learning) |
