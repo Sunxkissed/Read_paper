@@ -10,7 +10,6 @@
 | 202505 | A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | - | Survey 2 |
 | 202505 | Efficient Reasoning Models: A Survey | - | Survey 3 |
 | 202505 | Efficient Inference for Large Reasoning Models: A Survey | - | Survey 4 |
-
 | 202505 | Training Large Language Models to Reason in a Continuous Latent Space | - | Coconut (Curriculum learning) |
 | 202505 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | - | CODI (Curriculum learning) |
 | 202505 | Efficient Reasoning with Hidden Thinking | - | Heima (Curriculum learning) (MLLM) |
