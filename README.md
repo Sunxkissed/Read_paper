@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7622f72a-e5cb-4ca3-aa59-4aa2a4fb0692)<img width="1323" alt="image" src="https://github.com/user-attachments/assets/472a8749-bb5d-45a6-8db8-198083b43127" /># Paper Reading Notes
+# Paper Reading Notes
 
 ## LLM
 
