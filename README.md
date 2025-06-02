@@ -1,12 +1,16 @@
-# High-quality Paper Reading Notes
+![image](https://github.com/user-attachments/assets/7622f72a-e5cb-4ca3-aa59-4aa2a4fb0692)<img width="1323" alt="image" src="https://github.com/user-attachments/assets/472a8749-bb5d-45a6-8db8-198083b43127" /># Paper Reading Notes
 
 ## LLM
 
 ### Implicit CoT
 
 | Date | Title | Link | Mark |
-| ---- | ----- | ---- | ---- |
-| -    | -     | -    | -    |
+| 0523 | Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | - | Survey 1 |
+| 0524 | A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | - | Survey 2 |
+| 0524 | Efficient Reasoning Models: A Survey | - | Survey 3 |
+| 0528 | Efficient Inference for Large Reasoning Models: A Survey | - | Survey 4 |
+
+
 
 ### Overthinking
 
@@ -36,6 +40,7 @@
 | Date | Title | Link | Mark |
 | ---- | ----- | ---- | ---- |
 | -    | -     | -    | -    |
+
 
 
 
