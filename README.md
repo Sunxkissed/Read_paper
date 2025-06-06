@@ -32,7 +32,7 @@
 | 202505 | Token-Budget-Aware LLM Reasoning | [Github](https://github.com/GeniusHTX/TALE) | (Adaptive thinking) |
 | 202505 | Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens | - | (Adaptive thinking) |
 | 20250606 | Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation | [Blog](https://www.themoonlight.io/zh/review/adaptive-inference-time-compute-llms-can-predict-if-they-can-do-better-even-mid-generation) [Blog](https://blog.csdn.net/weixin_46739757/article/details/142925403) | Adaptive sampling |
-| 20250606 | ALPHAONE: Reasoning Models Thinking Slow and Fast at Test Time | [Blog](https://mp.weixin.qq.com/s/EIJHZ9yPlDrR3DVlT2pgYg) | Adaptive thinking（引导LRMs先进行充分的慢速思考，然后再快速生成答案，能取得更好的性能） |
+| 20250606 | ALPHAONE: Reasoning Models Thinking Slow and Fast at Test Time | [Blog](https://mp.weixin.qq.com/s/EIJHZ9yPlDrR3DVlT2pgYg) | Adaptive thinking (引导LRMs先进行充分的慢速思考，然后再快速生成答案，能取得更好的性能) |
 
 
 
