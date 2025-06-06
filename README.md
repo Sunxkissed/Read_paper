@@ -31,7 +31,7 @@
 | 202505 | Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens | [Github](https://github.com/chicosirius/think-or-not) | - |
 | 202505 | Token-Budget-Aware LLM Reasoning | [Github](https://github.com/GeniusHTX/TALE) | (Adaptive thinking) |
 | 202505 | Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens | - | (Adaptive thinking) |
-
+| 20250606 | Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation | [Blog](https://www.themoonlight.io/zh/review/adaptive-inference-time-compute-llms-can-predict-if-they-can-do-better-even-mid-generation) [Blog](https://blog.csdn.net/weixin_46739757/article/details/142925403) | Adaptive sampling |
 
 
 
