@@ -39,6 +39,11 @@
 | 20250607 | Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback | [Blog](https://mp.weixin.qq.com/s/hi1jXnNS3mASJUd8FxLCdA) [Blog](https://zhuanlan.zhihu.com/p/24597691981) | TPO (Test-Time Preference Optimization) |
 
 
+### Test Time Scaling
+
+| Date | Title | Link | Mark |
+| ---- | ----- | ---- | ---- |
+| 20250607 | Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters | [Blog](https://zhuanlan.zhihu.com/p/18709529446) | - |
 
 
 
