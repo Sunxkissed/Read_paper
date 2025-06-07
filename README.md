@@ -16,6 +16,7 @@
 | 202505 | SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs | [Github](https://github.com/xuyige/SoftCoT) | SoftCoT (Special token) |
 | 202505 | Compressed Chain of Thought: Efficient Reasoning through Dense Representations | - | CCoT (Compressed CoT) |
 | 202505 | Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning | [Github](https://github.com/lblankl/Token-Assorted) | Token Assorted (Compressed CoT) |
+| 20250606 | Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning | [Blog](https://mp.weixin.qq.com/s/jZ3bmuHpg4_XTmsW-S0jBA) | Survey 4 |
 
 
 
@@ -34,6 +35,8 @@
 | 20250606 | Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation | [Blog](https://www.themoonlight.io/zh/review/adaptive-inference-time-compute-llms-can-predict-if-they-can-do-better-even-mid-generation) [Blog](https://blog.csdn.net/weixin_46739757/article/details/142925403) | Adaptive sampling |
 | 20250606 | ALPHAONE: Reasoning Models Thinking Slow and Fast at Test Time | [Blog](https://mp.weixin.qq.com/s/EIJHZ9yPlDrR3DVlT2pgYg) | Adaptive thinking (引导LRMs先进行充分的慢速思考，然后再快速生成答案，能取得更好的性能) |
 | 20250606 | Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking | [Blog](https://blog.csdn.net/weixin_46739757/article/details/145908557) | Adaptive thinking |
+| 20250607 | DAST: Difficulty-Adaptive Slow Thinking for Large Reasoning Models | [Blog]() |  |
+| 20250607 | Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback | [Blog]() |  |
 
 
 
