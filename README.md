@@ -16,7 +16,7 @@
 | 202505 | SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs | [Github](https://github.com/xuyige/SoftCoT) | SoftCoT (Special token) |
 | 202505 | Compressed Chain of Thought: Efficient Reasoning through Dense Representations | - | CCoT (Compressed CoT) |
 | 202505 | Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning | [Github](https://github.com/lblankl/Token-Assorted) | Token Assorted (Compressed CoT) |
-| 20250606 | Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning | [Blog](https://mp.weixin.qq.com/s/jZ3bmuHpg4_XTmsW-S0jBA) | Survey 4 |
+| 20250606 | Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning | [Blog](https://mp.weixin.qq.com/s/jZ3bmuHpg4_XTmsW-S0jBA) | Survey 5 |
 
 
 
