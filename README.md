@@ -29,7 +29,7 @@
 | 202505 | Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning | - | CAR (Think/Nothink) |
 | 202505 | Reasoning Models Can Be Effective Without Thinking | - | - |
 | 202505 | The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks | [Blog](https://www.linkresearcher.com/theses/21271ce1-d44f-4fc3-a0a0-1899d51829e5) | - |
-| 202505 | Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens | [Github](https://github.com/chicosirius/think-or-not) | - |
+| 202505 | Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens | [Github](https://github.com/chicosirius/think-or-not) | (Adaptive thinking) |
 | 202505 | Token-Budget-Aware LLM Reasoning | [Github](https://github.com/GeniusHTX/TALE) | (Adaptive thinking) |
 | 202505 | Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens | - | (Adaptive thinking) |
 | 20250606 | Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation | [Blog](https://www.themoonlight.io/zh/review/adaptive-inference-time-compute-llms-can-predict-if-they-can-do-better-even-mid-generation) [Blog](https://blog.csdn.net/weixin_46739757/article/details/142925403) | Adaptive sampling |
