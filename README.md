@@ -36,6 +36,8 @@
 | 20250606 | ALPHAONE: Reasoning Models Thinking Slow and Fast at Test Time | [Blog](https://mp.weixin.qq.com/s/EIJHZ9yPlDrR3DVlT2pgYg) | Adaptive thinking (引导LRMs先进行充分的慢速思考，然后再快速生成答案，能取得更好的性能) |
 | 20250606 | Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking | [Blog](https://blog.csdn.net/weixin_46739757/article/details/145908557) | Inner Adaptive thinking, Model extension |
 | 20250607 | DAST: Difficulty-Adaptive Slow Thinking for Large Reasoning Models | - | Autonomously adjust the length of Chain-of-Thought (CoT) based on problem difficulty |
+| 20250610 | ARM: Adaptive Reasoning Model | - | - |
+| 20250610 | AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning | - | - |
 
 
 
@@ -48,6 +50,13 @@
 | 20250607 | Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback | [Blog](https://mp.weixin.qq.com/s/hi1jXnNS3mASJUd8FxLCdA) [Blog](https://zhuanlan.zhihu.com/p/24597691981) | TPO (Test-Time Preference Optimization) |
 
 
+
+
+### Hallucination
+
+| Date | Title | Link | Mark |
+| ---- | ----- | ---- | ---- |
+| 20250608 | Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models | - | - |
 
 
 
