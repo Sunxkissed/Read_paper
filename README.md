@@ -59,6 +59,8 @@
 | Date | Title | Link | Mark |
 | ---- | ----- | ---- | ---- |
 | 20250608 | Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models | - | - |
+| 20250610 | On the Fundamental Impossibility of Hallucination Control in Large Language Models | - | - |
+
 
 
 
