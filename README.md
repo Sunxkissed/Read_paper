@@ -17,6 +17,11 @@
 | 202505 | Compressed Chain of Thought: Efficient Reasoning through Dense Representations | - | CCoT (Compressed CoT) |
 | 202505 | Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning | [Github](https://github.com/lblankl/Token-Assorted) | Token Assorted (Compressed CoT) |
 | 20250606 | Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning | [Blog](https://mp.weixin.qq.com/s/jZ3bmuHpg4_XTmsW-S0jBA) | Survey 5 |
+| 20250611 | Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs | - | - |
+| 20250611 | Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach | - | - |
+| 20250611 | LightThinker: Thinking Step-by-Step Compression | - | - |
+
+
 
 
 
