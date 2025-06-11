@@ -44,7 +44,7 @@
 | 20250608 | Thinkless: LLM Learns When to Think | [Blog](https://mp.weixin.qq.com/s/sWPzf-rpWPTH3QVY2COBVg) | Think/Nothink |
 | 20250610 | ARM: Adaptive Reasoning Model | [Blog](https://mp.weixin.qq.com/s/zz-a0rxDrCrC4eQ5J9HGvQ) | Adaptive thinking |
 | 20250610 | AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning | [Blog](https://mp.weixin.qq.com/s/aJyWOjyvX3dYIu-K83lGBw) | Similar to AdaptThink |
-| 20250611 | Harnessing the Reasoning Economy A Survey of Efficient Reasoning for Large Language Models | - | - |
+| 20250611 | Harnessing the Reasoning Economy A Survey of Efficient Reasoning for Large Language Models | - | Survey |
 
 
 
