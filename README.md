@@ -47,6 +47,14 @@
 | 20250611 | Harnessing the Reasoning Economy A Survey of Efficient Reasoning for Large Language Models | - | Survey |
 
 
+### Looped Transformer [Blog](https://www.zhihu.com/question/1904728228213548260/answer/1904737712256296340)
+| Date | Title | Link | Mark |
+| ---- | ----- | ---- | ---- |
+| 20250612 | Looped Transformers for Length Generalization | - | - |
+| 20250612 | Reasoning with Latent Thoughts: On the Power of Looped Transformers | [Blog](https://zhuanlan.zhihu.com/p/1906684588606064483) | - |
+| 20250612 | To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers | - | - |
+| 20250612 | Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach | - | - |
+| 20250612 | Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking | - | - |
 
 
 
@@ -67,6 +75,9 @@
 | ---- | ----- | ---- | ---- |
 | 20250608 | Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models | - | - |
 | 20250610 | On the Fundamental Impossibility of Hallucination Control in Large Language Models | - | - |
+| 20250612 | Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models | - | 还没看 |
+
+
 
 
 
