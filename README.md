@@ -79,6 +79,17 @@
 
 
 
+### Interpretiblity of LLM
+
+| Date | Title | Link | Mark |
+| ---- | ----- | ---- | ---- |
+| 20250615 | On the Role of Attention Heads in Large Language Model Safety | - | safety相关 |
+| 20250615 | Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models | [Blog](https://www.themoonlight.io/zh/review/spot-risks-before-speaking-unraveling-safety-attention-heads-in-large-vision-language-models) | safety相关 |
+
+
+
+
+
 
 
 
@@ -88,6 +99,8 @@
 | Date | Title | Link | Mark |
 | ---- | ----- | ---- | ---- |
 | -    | -     | -    | -    |
+
+
 
 
 
